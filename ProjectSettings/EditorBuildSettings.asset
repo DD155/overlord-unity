@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menus/MainMenu.unity
+    guid: 7ba9db97ca5627740817b7da8215dda4
+  - enabled: 1
+    path: Assets/Scenes/Menus/LoginScreen.unity
+    guid: edfdadc3751a0604892bc9d81e6acb19
+  - enabled: 1
+    path: Assets/Scenes/Menus/Main/HomeScreen.unity
+    guid: 65dabb2fb208ceb42818ce7ad58c89de
+  - enabled: 1
+    path: Assets/Scenes/Menus/Quest/QuestScreen.unity
+    guid: a549f8f4302cd9647811cc9fd29e923d
+  - enabled: 1
+    path: Assets/Scenes/nextLevel.unity
+    guid: 813854919b34b4143902aae975cb8646
+  - enabled: 1
+    path: Assets/Scenes/Menus/Shop/ShopScreen.unity
+    guid: de02637d1fdfb794f9b3820917b6ee9e
+  - enabled: 1
+    path: Assets/Scenes/Menus/Options/OptionsScreen.unity
+    guid: 309b68616936e7140acea845794981bb
+  - enabled: 1
+    path: Assets/Scenes/Menus/Main/Characters/LeaderScreen.unity
+    guid: 0d81a64678ce658408f107377b58f59c
+  - enabled: 0
+    path: Assets/Scenes/Menus/Main/Characters/Unit1Screen.unity
+    guid: f65ae845ba07dac46917573bd46ecd40
+  - enabled: 1
+    path: Assets/Scenes/VictoryScreen.unity
+    guid: 79107fd6d4dc7f148b79ee6c45824777
+  - enabled: 0
+    path: Assets/Scenes/Menus/Main/Characters/Unit2Screen.unity
+    guid: 78d5582b12f5d3d499c4e68645f7a8a7
+  - enabled: 0
+    path: Assets/Scenes/Menus/Main/Characters/Unit3Screen.unity
+    guid: 698bc3d56baa9084e871379a2cce0f36
+  - enabled: 1
+    path: Assets/Scenes/Menus/Inventory/Unit Screens/InventoryUnitScreen.unity
+    guid: a96e11e09f700464f99a86dfd3fcf7c3
+  - enabled: 1
+    path: Assets/Scenes/Menus/Inventory/Item Screens/InventoryItemScreen.unity
+    guid: 39beb2cf79258384d9bc89b5c01e2123
+  - enabled: 0
+    path: Assets/Scenes/Menus/Inventory/Item Screens/InventoryLinkScreen.unity
+    guid: ac6419d484fdfe944b7ffca6b0fc0441
+  - enabled: 1
+    path: Assets/Scenes/Menus/Inventory/Team Screens/InventoryUpgradeScreen.unity
+    guid: a5162fea556dfbe40831c2bab827a1b8
+  - enabled: 1
+    path: Assets/Scenes/FightMain1.unity
+    guid: 1b92c89fc17f8164bb1a8325a0be8e80
+  - enabled: 1
+    path: Assets/Scenes/Menus/Shop/SummonScreen.unity
+    guid: e087ba5c3084c0e48ac3877dba9ba154
+  - enabled: 1
+    path: Assets/Scenes/Menus/Inventory/Upgrade Screens/UpgradesScreen.unity
+    guid: b16372512388c90449e1e1d98b0605dc
+  - enabled: 1
+    path: Assets/Scenes/Menus/Inventory/Team Screens/TeamScreen.unity
+    guid: 5c27af7362001e646b395d44f43fc5cd
+  - enabled: 1
+    path: Assets/Scenes/Menus/Quest/StatScreen.unity
+    guid: 8c96049967147904d803c25c360c4ac6
+  - enabled: 1
+    path: Assets/Scenes/Menus/Quest/MissionList.unity
+    guid: f30eeef2962896e4eb1352b7d4551722
+  - enabled: 1
+    path: Assets/Scenes/Menus/Inventory/Unit Screens/InventorySetUnitScreen.unity
+    guid: 997cca637b0fae14a91e99f2b71913bb
+  - enabled: 1
+    path: Assets/Scenes/Menus/Shop/MultiSummonScreen.unity
+    guid: 3f07d0e8e70cdd04bb472db4c47ae3eb
+  - enabled: 0
+    path: Assets/Scenes/Menus/Inventory/Upgrade Screens/SkillUpgradeScreen.unity
+    guid: 765618d06bef76f4ea23523214534d29
+  - enabled: 0
+    path: Assets/Scenes/Loading.unity
+    guid: 4f4a25b1ffea3ae469bc15d859a2f2d0
+  - enabled: 1
+    path: Assets/Scenes/Menus/Options/IGNScreen.unity
+    guid: 9b8242f9732065e45a7ee5728067bdf4
+  - enabled: 0
+    path: Assets/Scenes/DragWorking.unity
+    guid: 31d0657ff824340489a2cb895e62ed2a
